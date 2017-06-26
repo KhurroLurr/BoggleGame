@@ -12,3 +12,5 @@ It can be run in any way desired as the program itself does not take in any spec
 files.
 
 Rules of Boggle can be found here (https://en.wikipedia.org/wiki/Boggle).
+
+Code is complete and fully commented.
